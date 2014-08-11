@@ -20,7 +20,6 @@ cc_library(
     'libhashkit/murmur.cc',
     'libhashkit/murmur3.cc',
     'libhashkit/murmur3_api.cc',
-    'libhashkit/nohsieh.cc',
     'libhashkit/one_at_a_time.cc',
     'libhashkit/rijndael.cc',
     'libhashkit/str_algorithm.cc',
